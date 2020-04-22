@@ -1,0 +1,15 @@
+G:\closedxml_empty_sheet_test\obj\Debug\closedxml_empty_sheet_test.csprojAssemblyReference.cache
+G:\closedxml_empty_sheet_test\bin\Debug\closedxml_empty_sheet_test.exe.config
+G:\closedxml_empty_sheet_test\bin\Debug\closedxml_empty_sheet_test.exe
+G:\closedxml_empty_sheet_test\bin\Debug\closedxml_empty_sheet_test.pdb
+G:\closedxml_empty_sheet_test\bin\Debug\ClosedXML.dll
+G:\closedxml_empty_sheet_test\bin\Debug\DocumentFormat.OpenXml.dll
+G:\closedxml_empty_sheet_test\bin\Debug\ExcelNumberFormat.dll
+G:\closedxml_empty_sheet_test\bin\Debug\System.IO.Packaging.dll
+G:\closedxml_empty_sheet_test\bin\Debug\ClosedXML.pdb
+G:\closedxml_empty_sheet_test\bin\Debug\ClosedXML.xml
+G:\closedxml_empty_sheet_test\bin\Debug\DocumentFormat.OpenXml.xml
+G:\closedxml_empty_sheet_test\bin\Debug\ExcelNumberFormat.xml
+G:\closedxml_empty_sheet_test\obj\Debug\closedxml_empty_sheet_test.csproj.CopyComplete
+G:\closedxml_empty_sheet_test\obj\Debug\closedxml_empty_sheet_test.exe
+G:\closedxml_empty_sheet_test\obj\Debug\closedxml_empty_sheet_test.pdb
